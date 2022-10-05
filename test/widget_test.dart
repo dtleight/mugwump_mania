@@ -12,6 +12,6 @@ import 'package:mugwump_mania/main.dart';
 
 void main() {
   testWidgets('Heartbeat Test', (WidgetTester tester) async {
-    expect(true, true);
+    expect(false, true);
   });
 }
